@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/semiozerie-reload/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/semiozerie-reload/","noteIcon":""}
 ---
 
 Test_v0.1 
