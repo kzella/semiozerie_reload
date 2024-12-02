@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/duplex/files/project-documentation/duplex/konstruktorskaya-dokumentacziya-kd-duplex/","noteIcon":"","updated":"2024-12-02T04:02:04.123+03:00"}
----
-
-<iframe src="https://drive.google.com/file/d/1GX0aSXqO3PP4yDXBdaegIVmusLkCXejI/preview" width="900" height="840" allow="autoplay"></iframe>
